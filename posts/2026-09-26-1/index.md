@@ -2,9 +2,9 @@
 title: "1"
 slug: "1"
 date: 2026-09-26
-updated: 2026-09-26T10:39:05.141Z
+updated: 2026-09-26T10:51:35.425Z
 summary: "1"
-cover: ""
+cover: cover.webp
 tags:
   - "1"
 category: "1"
