@@ -2,7 +2,7 @@
 title: 懒漫画lanmanga：一个让你“打开即看”的漫画角落
 slug: section-35glo5
 date: 2026-10-01
-updated: 2026-10-01T13:32:59.410Z
+updated: 2026-10-01T13:36:37.976Z
 summary: ""
 cover: cover.webp
 tags:
@@ -17,7 +17,8 @@ related_projects: []
 
 最近在找漫画的时候，发现了一个叫“懒漫画”的App，官网是 lanmanga.com。用了一阵子，觉得挺有意思，写篇东西聊聊。
 
-![](https://pic.xiame.com/xiame/imgfile/20260303/0311260945bc.png)
+![](posts/2026-10-01-section-35glo5/image-mupkv2v9n9uy.webp)
+
 
 
 我第一次打开懒漫画的时候，说实话有点意外。现在大多数漫画App，要么开屏先来五秒广告，要么不注册账号连首页都看不了。懒漫画不是这样，下载完打开，直接就是漫画列表，没有任何登录提示，也没有弹窗。点击一部漫画，直接开始加载阅读。这种“打开即看”的体验，在现在的免费漫画工具里确实不多见了。
