@@ -1,0 +1,19 @@
+name: CYSOEditor
+slug: cysoeditor
+summary: CYSOEditor —— 创想无界，自由由我
+description: |-
+  **CYSOEditor** 是我基于 TurboWarp 深度二改开发的一款免费开源可视化编程编辑器。它在完整保留 Scratch 经典积木与社区生态的基础上，由编译引擎将积木转译为原生 JavaScript，让复杂项目也能丝滑运行——更快、更稳、更自由。
+  项目的核心亮点是自主研发的 CYSO Core 权限管理系统。它将扩展能力细分为 4 大分组、10 项具体权限（文件操作、系统操作、界面操作、硬件操作），并提供"始终允许 / 使用时询问 / 禁用"三种处置方式。每一次扩展发起敏感请求，都会经过拦截、归类、检查、处置的完整流程，让每一次系统调用都运行在你授权的边界内，把安全真正交还给创作者。
+  在体验上，CYSOEditor 内置 Aurora 极光与雾砂两套官方主题，长时间创作也不疲惫；扩展生态全面接入 CY ScrExt Hub，同时支持第三方扩展库，积木、桌面能力、自定义插件一应俱全。创作完成后，可一键导出为 Windows 程序或 HTML 网页，作品即刻分享。
+  编辑器原生支持 Windows、Linux、macOS 三大平台，提供一键安装与便携版两种使用方式，代码完全开源透明，欢迎社区共同维护与贡献。无论是学生、老师、编程爱好者还是独立开发者，都能在这里零成本开启创作。
+  做更好的工具，交给更好的你。欢迎访问 cyso.cyscrhub.top 免费下载，与我一起探索可视化编程的无限可能。
+stack: []
+repo_url: ""
+demo_url: ""
+cover: ""
+icon: ""
+related_posts: []
+weight: 0
+status: published
+created_at: 2026-10-03T01:16:40.294Z
+updated_at: 2026-10-03T01:16:40.294Z
