@@ -7,13 +7,16 @@ description: |-
   在体验上，CYSOEditor 内置 Aurora 极光与雾砂两套官方主题，长时间创作也不疲惫；扩展生态全面接入 CY ScrExt Hub，同时支持第三方扩展库，积木、桌面能力、自定义插件一应俱全。创作完成后，可一键导出为 Windows 程序或 HTML 网页，作品即刻分享。
   编辑器原生支持 Windows、Linux、macOS 三大平台，提供一键安装与便携版两种使用方式，代码完全开源透明，欢迎社区共同维护与贡献。无论是学生、老师、编程爱好者还是独立开发者，都能在这里零成本开启创作。
   做更好的工具，交给更好的你。欢迎访问 cyso.cyscrhub.top 免费下载，与我一起探索可视化编程的无限可能。
-stack: []
-repo_url: ""
-demo_url: ""
-cover: ""
-icon: ""
+stack:
+  - react
+  - node.js
+  - JavaScript
+repo_url: https://github.com/CYSO-Editor/
+demo_url: cyso.cyscrhub.top
+cover: cover.webp
+icon: so
 related_posts: []
 weight: 0
 status: published
 created_at: 2026-10-03T01:16:40.294Z
-updated_at: 2026-10-03T01:16:40.294Z
+updated_at: 2026-10-03T01:20:19.053Z
